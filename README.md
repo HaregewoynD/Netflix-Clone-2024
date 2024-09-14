@@ -1,5 +1,5 @@
-                                                                      Welcome to my Netflix Clone repository!
-This project is a recreation of the Netflix UI using modern web technologies. It utilizes HTML, CSS, React JS, media queries, Axios for HTTP requests, Vite as a building tool, and Node.js.
+                                                                  
+Welcome to my Netflix Clone repository! This project is a recreation of the Netflix UI using modern web technologies. It utilizes HTML, CSS, React JS, media queries, Axios for HTTP requests, Vite as a building tool, and Node.js.
 1.	Setup Instructions:
 To set up and run the Netflix Clone locally, follow the following steps:
 	Open your terminal and execute: 
